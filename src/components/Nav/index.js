@@ -14,7 +14,7 @@ function Nav() {
 			</Link>
 			<a
 				className="App-link"
-				href="https://github.com/qudoki"
+				href="https://github.com/johnfan7"
 				target="_blank"
 				rel="noreferrer"
 			>

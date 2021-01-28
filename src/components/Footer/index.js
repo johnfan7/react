@@ -5,7 +5,7 @@ import "./style.css";
 function Footer() {
 	return (
 		<footer>
-			<p>Copyright © Quinn Dong-Kilkenny</p>
+			<p>Copyright © John Fan</p>
 		</footer>
 	);
 }
